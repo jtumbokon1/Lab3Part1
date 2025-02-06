@@ -25,7 +25,5 @@ class Program
         Cat cat = new Cat("Whiskers", "White", 3); // create a Cat object
         Console.WriteLine(cat);
         cat.Eat();
-
-        Console.WriteLine(); // empty line
     }
 }
